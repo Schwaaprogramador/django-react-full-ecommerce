@@ -1,8 +1,8 @@
-
+import styled from './Footer.module.css'
 
 const Footer = () => {
   return (
-    <div>
+    <div className={styled.container}>
       Footer
     </div>
   )

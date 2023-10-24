@@ -2,7 +2,7 @@ import {ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 import Navbar from '../components/navigation/Navbar';
-import Footer from '../components/navigation/Footer';
+import Footer from '../components/navigation/Footer/Footer';
 
 //Esta importacion fue de GPT al pasarle el error "children is missing in props validation"
 import PropTypes from 'prop-types';
